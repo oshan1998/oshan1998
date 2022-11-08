@@ -1,10 +1,10 @@
 [![MasterHead](https://github.com/oshan1998/webDevelopmentCourse/blob/main/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg)](https://github.com/oshan1998)
 <h1 align="center">Hi 👋, I'm Oshan Chamara</h1>
-<!-- <h3 align="center">Passionate in Electronics and Machine Learning.</h3> -->
+<h3 align="center">Passionate in Electronics and Machine Learning.</h3>
 <img align="right" alt"coder" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan1998&label=Profile%20views&color=0e75b6&style=flat" alt="oshan1998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshan1998" alt="oshan1998" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Face Recognition System**
 
@@ -15,7 +15,8 @@
 - 📫 How to reach me **oshanrajapaksha98@gmail.com**
 
 - ⚡ Fun fact **Simple Funny Boy**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan1998&label=Profile%20views&color=0e75b6&style=flat" alt="oshan1998" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshan1998" alt="oshan1998" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oshan-chamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshan-chamara" height="30" width="40" /></a>
