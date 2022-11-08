@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/oshan1998/webDevelopmentCourse/blob/main/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg)](https://github.com/oshan1998)
 <h1 align="center">Hi 👋, I'm Oshan Chamara</h1>
-<h3 align="center">Passionate in Electronics and Machine Learning.</h3>
+<!-- <h3 align="center">Passionate in Electronics and Machine Learning.</h3> -->
 <img align="right" alt"coder" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan1998&label=Profile%20views&color=0e75b6&style=flat" alt="oshan1998" /> </p>
 
