@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/oshan1998/webDevelopmentCourse/blob/main/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg)](https://github.com/oshan1998)
+[![MasterHead](https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)](https://github.com/oshan1998)
 <h1 align="center">Hi 👋, I'm Oshan Chamara</h1>
 <h3 align="center">Passionate in Electronics and Machine Learning.</h3>
 <img align="right" alt"coder" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
