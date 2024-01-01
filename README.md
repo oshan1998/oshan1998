@@ -6,11 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Face Recognition System**
+- 🔭 I`m a final year undergraduate in department of Electronic and Telecommunication Engineering at the University of Moratuwa
 
-- 🌱 I’m currently learning **Machine Learning and Electronics.**
-
-- 💬 Ask me about **Image Processing, Electronic, Neural Networks**
+- 🌱 I’m currently working on out of distribution generalization.
 
 - 📫 How to reach me **oshanrajapaksha98@gmail.com**
 
